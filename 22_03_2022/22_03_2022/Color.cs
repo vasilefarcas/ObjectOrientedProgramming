@@ -1,6 +1,6 @@
 ﻿namespace _22_03_2022
 {
-    enum Color
+    public enum Color
     {
         Negru = 0,
         Rosu = 1,

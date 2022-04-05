@@ -2,7 +2,7 @@
 
 namespace _22_03_2022
 {
-    internal class Punct
+    public class Punct
     {
         #region Properties
         public double X { get; set; }
