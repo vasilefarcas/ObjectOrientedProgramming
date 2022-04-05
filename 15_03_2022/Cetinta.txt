@@ -1,0 +1,9 @@
+Creati un tip abstract de date(clasa) care sa implementeze o stiva.
+Interfata implicita pe care push, pop(elimina un element din varful stivei si il intoarce), peek, capacity, size.
+
+Varianta 1
+	Vom crea o stiva care ne va permite sa lucram doar cu numere intregi(cu vector)
+	Structura de date interna pe care o vom folosi pentru stocarea valorilor va fi un tablou unidimensional care va avea o capacitate initial.
+	Cand stiva este plina si trebuie introdus un nou element capacitatea stivei se va dubla.
+	Daca la un moment dat capacitatea stivei e de 4 ori mai mare decat numarul efectiv de elemente din stiva o vom injumatati.
+	
