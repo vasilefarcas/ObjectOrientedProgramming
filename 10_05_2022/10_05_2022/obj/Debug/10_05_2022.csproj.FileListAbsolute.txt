@@ -1,0 +1,8 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\Programare orientata pe obiecte\ObjectOrientedProgramming\10_05_2022\10_05_2022\bin\Debug\10_05_2022.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\Programare orientata pe obiecte\ObjectOrientedProgramming\10_05_2022\10_05_2022\bin\Debug\10_05_2022.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\Programare orientata pe obiecte\ObjectOrientedProgramming\10_05_2022\10_05_2022\bin\Debug\10_05_2022.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\Programare orientata pe obiecte\ObjectOrientedProgramming\10_05_2022\10_05_2022\obj\Debug\10_05_2022.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\Programare orientata pe obiecte\ObjectOrientedProgramming\10_05_2022\10_05_2022\obj\Debug\10_05_2022.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\Programare orientata pe obiecte\ObjectOrientedProgramming\10_05_2022\10_05_2022\obj\Debug\10_05_2022.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\Programare orientata pe obiecte\ObjectOrientedProgramming\10_05_2022\10_05_2022\obj\Debug\10_05_2022.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\Programare orientata pe obiecte\ObjectOrientedProgramming\10_05_2022\10_05_2022\obj\Debug\10_05_2022.pdb
